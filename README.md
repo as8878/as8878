@@ -1,8 +1,10 @@
+# Ankit Singh
+--
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankitsingh6/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:singhanki67@gmail.com) 
+
 # 👨‍💻 Software Engineer
 
 Currently pursuing my M.S. in Computer Science at Rochester Institute of Technology,I bring 3 years of experience in building scalable, user-centric applications and robust software systems. My expertise spans **mobile platforms**, **front-end engineering**, **Embedded Systems** and **performance optimization**, backed by a strong foundation in modern software practices and cross-domain problem solving.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankitsingh6/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:singhanki67@gmail.com) 
 
 ---
 
