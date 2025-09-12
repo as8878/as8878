@@ -9,13 +9,10 @@ Currently pursuing my M.S. in Computer Science at Rochester Institute of Technol
 
 - 🛠️ **Software Intern @ Nissan North America**  
   Developing next-gen automotive software solutions that power smarter, tech-driven in-car experiences.
-
 - 🎧 **Research on Audio Signal Processing**  
   Using **Python** and **C++** to advance real-time audio validation tools and DSP optimization.
-
 - 🚗 **Health Data Integration in Vehicles**  
   Exploring intelligent systems that use **driver health data** for immediate in-vehicle response mechanisms.
-
 ---
 
 ### Mobile Apps that I created
