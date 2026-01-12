@@ -8,8 +8,6 @@ Currently pursuing my M.S. in Computer Science at Rochester Institute of Technol
 
 🔭 Current Focus
 
-- 🛠️ **Incoming @ Skyworks Solutions**  
-  💡 Passionate about building performant, intuitive, and scalable mobile experiences.
 - 🤖 **Research on Offline LLMs for Android**  
   Working on running on-device **LLMs** efficiently on **Android** for private, low-latency AI experiences.
 
